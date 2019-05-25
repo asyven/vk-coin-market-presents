@@ -34,5 +34,8 @@
 1. Ключ показывается только один раз, сохраните его в надежном месте.
 1. Ключ нужно установить в settings.js в свойство ```VKCOIN_MERCHANT```
 
-Если есть вопросы или баги писать [сюда](https://github.com/asyven/vk-coin-market-presents/issues)
-Если хочешь улучшить эти грабли делай пр [сюда](https://github.com/asyven/vk-coin-market-presents/pulls)
+
+
+-------
+ - Если есть вопросы или баги писать [сюда](https://github.com/asyven/vk-coin-market-presents/issues)
+ - Если хочешь улучшить эти грабли делай пр [сюда](https://github.com/asyven/vk-coin-market-presents/pulls)
