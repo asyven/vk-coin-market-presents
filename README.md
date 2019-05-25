@@ -5,6 +5,8 @@
 - ```git clone https://github.com/asyven/vk-coin-market-presents.git```
 - ```npm install```
 
+![q](http://joxi.ru/l2ZYNE1iz3Ya4m.png)
+
 | Настройка settings.js  | описание |
 | ------------- | ------------- |
 | VK_ID  | id пользователя вконтакте  |
