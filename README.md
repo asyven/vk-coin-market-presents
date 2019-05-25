@@ -14,7 +14,7 @@
 | GROUP_STAND_IGNORE  | пользователи, которые не должны побеждать (админы, модеры и тп.)  |
 | GROUP_STAND_REWARD  | максимальная награда в коинах |
 
-## Получения токена для виджета
+## Получения токена для виджета VK_WIDGET_TOKEN
 1. [Создать приложение](https://vk.com/editapp?act=create) – Встраиваемое приложение – Приложение сообщества
 1. Aдресом iframe укажите ваш сервер и папку, где лежит, [widget.html](https://github.com/asyven/vk-coin-market-presents/blob/master/widget.html) с этого репозитория
 1. Зайдите в ваше Сообщество – меню Управление сообществом – Приложения – выберите там ваше свежесозданное приложение
@@ -22,12 +22,12 @@
 1. В поле увидите токен, его нужно установить в settings.js в свойство ```VK_WIDGET_TOKEN```
 1. Тыкайте установить виджет, первый раз нужно установить табличку, чтобы потом можно было обновлять скриптом
 
-## Токен вокнтакте можно получить тут 
+## Токен приложения вконтакте VK_TOKEN
  - [Ссылка на токен от VK API](https://oauth.vk.com/authorize?client_id=3116505&scope=1073737727&redirect_uri=https://api.vk.com/blank.html&display=page&response_type=token&revoke=1)
  - можете изменить параметр scope, что бы давать не все разрешения
  - полученый токен запишите в параметр ```VK_TOKEN```
  
-## Merchant api VK Coin
+## Merchant api VK Coin VKCOIN_MERCHANT
 
 1. Перейдите по ссылке [vk.com/coin#create_merchant](vk.com/coin#create_merchant).
 1. Нажмите создать ключ.
