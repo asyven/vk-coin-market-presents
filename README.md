@@ -1,5 +1,6 @@
 ## vk-coin-market-presents
 Штука, которая отправляет VK Coins случайным пользователям группы вконтакте.
+Сделана на коленке, дропнута в паблик по просьбам.
 
 - ```git clone https://github.com/asyven/vk-coin-market-presents.git```
 - ```npm install```
